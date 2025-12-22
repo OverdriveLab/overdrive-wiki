@@ -1,0 +1,36 @@
+# =========================
+# Jekyll build output
+# =========================
+_site/
+
+# =========================
+# Jekyll cache
+# =========================
+.jekyll-cache/
+
+# =========================
+# Bundler / dependencies
+# =========================
+.bundle/
+vendor/
+
+# =========================
+# OS / editor junk
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# =========================
+# Node / JS related (optional, if using JS)
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# =========================
+# Logs
+# =========================
+*.log
