@@ -61,37 +61,24 @@ collections:
   effects:
     output: true
     permalink: /effects/:title/
+  tools:
+    output: true
+    permalink: /tools/:title/
 
 ordered_collections:
   - drugs
   - effects
+  - tools
 
 # =========================
 # 默认布局配置
 # =========================
 defaults:
-  # 首页单独布局
-  - scope:
-      path: "index.md"
-      type: "pages"
-    values:
-      layout: "home"
-
-  # 所有普通页面默认布局
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "post"
-
-  # 所有 drugs 集合默认布局
   - scope:
       path: ""
       type: "drugs"
     values:
       layout: "post"
-
-  # 所有 effects 集合默认布局
   - scope:
       path: ""
       type: "effects"
