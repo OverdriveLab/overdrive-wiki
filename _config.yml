@@ -56,19 +56,33 @@ permalink: /:title/
 # Collections 配置
 # =========================
 collections:
-  drugs:
+  index:
     output: true
-    permalink: /drugs/:title/
-  effects:
-    output: true
-    permalink: /effects/:title/
+    permalink: /index/:title/
   tools:
     output: true
     permalink: /tools/:title/
+  drug_effect:
+    output: true
+    permalink: /drug_effect/:title/
+  drugs:
+    output: true
+    permalink: /drugs/:title/
+  drugs_meta:
+    output: true
+    permalink: /drugs_meta/:title/
+  others:
+    output: true
+    permalink: /others/:title/
+  psychiatry:
+    output: true
+    permalink: /psychiatry/:title/
+  reports:
+    output: true
+    permalink: /reports/:title/
 
 ordered_collections:
-  - drugs
-  - effects
+  - index
   - tools
 
 # =========================
