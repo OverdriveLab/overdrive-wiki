@@ -91,11 +91,5 @@ ordered_collections:
 defaults:
   - scope:
       path: ""
-      type: "drugs"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "effects"
     values:
       layout: "post"
