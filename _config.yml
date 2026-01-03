@@ -68,6 +68,9 @@ collections:
   drugs:
     output: true
     permalink: /drugs/:title/
+  other:
+    output: true
+    permalink: /other/:title/
   report:
     output: true
     permalink: /report/:title/
