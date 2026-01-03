@@ -59,31 +59,21 @@ collections:
   index:
     output: true
     permalink: /index/:title/
-  tools:
+  drug:
     output: true
-    permalink: /tools/:title/
+    permalink: /drug/:title/
   drug_effect:
     output: true
     permalink: /drug_effect/:title/
   drugs:
     output: true
     permalink: /drugs/:title/
-  drugs_meta:
+  report:
     output: true
-    permalink: /drugs_meta/:title/
-  others:
-    output: true
-    permalink: /others/:title/
-  psychiatry:
-    output: true
-    permalink: /psychiatry/:title/
-  reports:
-    output: true
-    permalink: /reports/:title/
+    permalink: /report/:title/
 
 ordered_collections:
   - index
-  - tools
 
 # =========================
 # 默认布局配置
