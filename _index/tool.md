@@ -1,6 +1,5 @@
 ---
 title: 工具
-layout: home
 ---
 
 ## 电子处方生成

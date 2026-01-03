@@ -1,11 +1,5 @@
 ---
 title: OverDose 引论
-description: 
-published: true
-date: 2025-04-12T15:11:57.142Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-12T12:32:18.796Z
 ---
 
 > 本篇将介绍 od，以帮助读者开始了解一切

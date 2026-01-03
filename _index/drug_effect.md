@@ -1,14 +1,7 @@
 ---
 title: 药效索引
-description: 
-published: true
-date: 2025-04-11T15:31:14.909Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-11T14:11:21.158Z
 ---
 
-# 药效索引（待开发）
 ## 副作用
 - [呼吸抑制](/drug_effect/呼吸抑制)
 ## 药效
