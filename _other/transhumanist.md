@@ -2,7 +2,6 @@
 title: 超人类主义宣言
 ---
 
-
 ### 《超人类宣言》
 
 《超人类宣言》最初由一个国际作家小组于1998年制定，成员包括：Doug Baily、Anders Sandberg、Gustavo Alves、Max More、Holger Wagner、Natasha Vita-More、Eugene Leitl、Bernie Staring、David Pearce、Bill Fantegrossi、den Otter、Ralf Fletcher、Tom Morrow、Alexander Chislenko、Lee Daniel Crocker、Darren Reynolds、Keith Elis、Thom Quinn、Mikhail Sverdlov、Arjen Kamphuis、Shane Spaulding 和 Nick Bostrom。此宣言在随后几年由多个作家和组织进行修改，并于2009年3月由Humanity+董事会采纳。
