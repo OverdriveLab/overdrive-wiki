@@ -11,7 +11,7 @@ twitter_username: "Qxdfimd_"
 # =========================
 # 使用远程主题
 # =========================
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: qxdfimd/jekyll-gitbook
 
 # =========================
 # 插件
