@@ -1,11 +1,5 @@
 ---
-title: NMDA拮抗剂
-description: 
-published: true
-date: 2025-04-11T15:58:39.009Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-12T10:05:12.112Z
+title: NMDA抗抑郁
 ---
 
 【本条目创建日期：2024年6月26日】

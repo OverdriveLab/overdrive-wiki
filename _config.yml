@@ -77,6 +77,7 @@ collections:
 
 ordered_collections:
   - index
+  - drug
 
 # =========================
 # 默认布局配置

@@ -2,7 +2,8 @@
 title: 超人类主义宣言
 ---
 
-# The Transhumanist Declaration [Source](https://www.humanityplus.org/the-transhumanist-declaration)
+# The Transhumanist Declaration
+[Source](https://www.humanityplus.org/the-transhumanist-declaration)
 
 The Transhumanist Declaration was originally crafted in 1998 by an international group of authors: Doug Baily, Anders Sandberg, Gustavo Alves, Max More, Holger Wagner, Natasha Vita-More, Eugene Leitl, Bernie Staring, David Pearce, Bill Fantegrossi, den Otter, Ralf Fletcher, Tom Morrow, Alexander Chislenko, Lee Daniel Crocker, Darren Reynolds, Keith Elis, Thom Quinn, Mikhail Sverdlov, Arjen Kamphuis, Shane Spaulding, and Nick Bostrom. This Transhumanist Declaration has been modified over the years by several authors and organizations. It was adopted by the Humanity+ Board in March, 2009.
 
