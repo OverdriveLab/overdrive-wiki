@@ -1,11 +1,5 @@
 ---
-title: 5-羟色氨酸
-description: 
-published: true
-date: 2025-04-11T15:22:47.232Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-11T14:08:11.886Z
+title: 5-HTP
 ---
 
 【本条目创建日期：2024年7月14日】

@@ -1,11 +1,5 @@
 ---
 title: LSD
-description: 
-published: true
-date: 2025-04-11T14:10:25.219Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-11T14:10:20.773Z
 ---
 
 # LSD————我那惹是生非的孩子
