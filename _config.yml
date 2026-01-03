@@ -84,5 +84,10 @@ ordered_collections:
 defaults:
   - scope:
       path: ""
+      type: "index"
+    values:
+      layout: "home"
+  - scope:
+      path: ""
     values:
       layout: "post"
