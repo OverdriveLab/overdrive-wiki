@@ -1,11 +1,5 @@
 ---
-title: 药物剂量统计（统计范围RP1-RP219）
-description: 
-published: true
-date: 2025-04-12T12:41:05.520Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-12T10:05:26.312Z
+title: RPX
 ---
 
 # 药物剂量统计（统计范围RP1-RP219）[布洛芬made]
