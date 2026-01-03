@@ -71,13 +71,12 @@ collections:
   other:
     output: true
     permalink: /other/:title/
-  report:
-    output: true
-    permalink: /report/:title/
 
 ordered_collections:
   - index
   - drug
+  - drug_effect
+  - drugs
 
 # =========================
 # 默认布局配置
