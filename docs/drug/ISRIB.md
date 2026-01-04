@@ -30,7 +30,7 @@ ISRIB目前仍处于实验室研究阶段，尚未发现明显毒副作用
 注意：反式ISRIB比顺式ISRIB药效强100倍（IC50 = 5 nM对比IC50 = 600 nM）^[[Pharmacological brake-release of mRNA translation enhances cognitive memory | eLife](https://elifesciences.org/articles/00498)]
 
 #### 合成方法
-![屏幕截图(52).png](/屏幕截图(52).png)
+[屏幕截图(52).png](/屏幕截图(52).png)
 
 ### 剂量
 目前药物仍处于实验室研究阶段，暂无医学剂量相关信息，个人使用有风险，请自行负责并应对。
