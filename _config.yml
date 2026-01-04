@@ -5,13 +5,11 @@ title: "Overdrive Wiki"
 description: "Overdrive Wiki是一个社区驱动、学术取向的开放百科，系统性整理与药物过量相关的物质信息，涵盖其药理学、毒理学及相关临床与主观效应。"
 url: "https://overdrive-wiki.pages.dev"
 favicon_path: assets/favicon.ico
-github_username: "OverdriveLab"
-twitter_username: "Qxdfimd_"
 
 # =========================
 # 使用远程主题
 # =========================
-remote_theme: qxdfimd/jekyll-gitbook
+remote_theme: sighingnow/jekyll-gitbook
 
 # =========================
 # 插件
