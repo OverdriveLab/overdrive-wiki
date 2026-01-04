@@ -54,27 +54,21 @@ permalink: /:title/
 # Collections 配置
 # =========================
 collections:
-  index:
-    output: true
-    permalink: /index/:title/
   drug:
     output: true
     permalink: /drug/:title/
   drug_effect:
     output: true
     permalink: /drug_effect/:title/
-  drugs:
+  index:
     output: true
-    permalink: /drugs/:title/
+    permalink: /index/:title/
   other:
     output: true
     permalink: /other/:title/
 
 ordered_collections:
   - index
-  - drug
-  - drug_effect
-  - drugs
 
 # =========================
 # 默认布局配置
