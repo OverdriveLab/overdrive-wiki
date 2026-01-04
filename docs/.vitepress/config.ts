@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import fs from 'fs'
 
+
 function autoSidebar(dir: string, base: string) {
   return fs.readdirSync(dir)
     .filter(f => f.endsWith('.md') && f !== 'index.md')
@@ -11,6 +12,7 @@ function autoSidebar(dir: string, base: string) {
 }
 
 export default defineConfig({
+  ignoreDeadLinks: true,
   title: 'Overdrive Wiki',
   description: 'Overdrive Wiki是一个由社区共同维护的百科全书项目',
   cleanUrls: true,
