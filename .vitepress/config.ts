@@ -21,10 +21,6 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
   ],
 
-  markdown: {
-    math: true
-  },
-
   themeConfig: {
     outline: {
       level: [1, 3]
