@@ -1,88 +1,104 @@
 # =========================
-# 网站基本信息
+# Site Metadata
 # =========================
 title: "Overdrive Wiki"
 description: "Overdrive Wiki是一个社区驱动、学术取向的开放百科，系统性整理与药物过量相关的物质信息，涵盖其药理学、毒理学及相关临床与主观效应。"
 url: "https://overdrive-wiki.pages.dev"
 favicon_path: assets/favicon.ico
 
+
 # =========================
-# 使用远程主题
+# Theme & Plugins
 # =========================
 remote_theme: sighingnow/jekyll-gitbook
 
-# =========================
-# 插件
-# =========================
 plugins:
   - jekyll-remote-theme
   - jekyll-toc
 
+
 # =========================
-# Markdown & Kramdown 配置
+# Markdown & Syntax Highlight
 # =========================
 markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 
 kramdown:
   input: GFM
-  hard_wrap: true
   auto_ids: true
   toc_levels: 1..6
-  math_engine: mathjax
   smart_quotes: lsquo,rsquo,ldquo,rdquo
+  math_engine: mathjax
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     guess_lang: true
 
 syntax_highlighter_style: colorful
 
+
 # =========================
-# 文章目录（TOC）配置
+# Table of Contents
 # =========================
 toc:
   enabled: true
   h_min: 1
   h_max: 3
 
+
 # =========================
-# URL 和永久链接配置
+# URL & Permalink
 # =========================
 permalink: /:title/
 
+
 # =========================
-# Collections 配置
+# Collections
 # =========================
 collections:
-  drug:
-    output: true
-    permalink: /drug/:title/
-  drug_effect:
-    output: true
-    permalink: /drug_effect/:title/
   index:
     output: true
     permalink: /index/:title/
+
+  drug:
+    output: true
+    permalink: /drug/:title/
+
+  drug_effect:
+    output: true
+    permalink: /drug_effect/:title/
+
   other:
     output: true
     permalink: /other/:title/
 
+
+# GitBook 左侧导航顺序
 ordered_collections:
   - index
+  - drug
+  - drug_effect
+  - other
+
 
 # =========================
-# 默认布局配置
+# Defaults
 # =========================
 defaults:
   - scope:
       path: ""
-      type: "index"
+      type: index
     values:
-      layout: "home"
+      layout: home
+
   - scope:
       path: ""
     values:
-      layout: "post"
+      layout: post
 
+
+# =========================
+# Include Files
+# =========================
 include:
-  - "_redirects"
+  - _redirects
