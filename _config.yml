@@ -73,7 +73,7 @@ collections:
     permalink: /other/:title/
 
 
-# GitBook 左侧导航顺序
+# GitBook 左侧导航
 ordered_collections:
   - index
   - other
