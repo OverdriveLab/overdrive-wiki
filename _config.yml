@@ -27,6 +27,7 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 kramdown:
   input: GFM
   auto_ids: true
+  hard_wrap: true
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   math_engine: mathjax
