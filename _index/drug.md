@@ -16,10 +16,10 @@ title: 药物索引
 
 ## 完整索引
 
-本站目前共收录 {{ site.drugs | size }} 种药物。
+本站目前共收录 {{ site.drug | size }} 种药物。
 
 <ul>
-{% assign drugs_sorted = site.drugs | sort: "title" %}
+{% assign drugs_sorted = site.drug | sort: "title" %}
 {% for drug in drugs_sorted %}
   <li>
     <a href="{{ drug.url | relative_url }}">
