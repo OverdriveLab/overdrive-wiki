@@ -27,9 +27,27 @@ export default defineConfig({
     },
 
     sidebar: {
-      '/drug/': autoSidebar('drug', '/drug'),
-      '/index/': autoSidebar('index', '/index'),
-      '/other/': autoSidebar('other', '/other')
+  '/drug/': [
+    {
+      text: '药物',
+      items: autoSidebar('drug', '/drug')
     }
+  ],
+
+  '/index/': [
+    {
+      text: '索引',
+      items: autoSidebar('index', '/index')
+    }
+  ],
+
+  '/other/': [
+    {
+      text: '其他',
+      items: autoSidebar('other', '/other')
+    }
+  ]
+}
+
   }
 })
