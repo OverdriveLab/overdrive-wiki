@@ -9,7 +9,9 @@ function autoSidebar(dir: string, base: string) {
       text: f.replace('.md', ''),
       link: `${base}/${f.replace('.md', '')}`
     }))
+    .sort((a, b) => a.text.localeCompare(b.text, 'zh'))
 }
+
 
 export default defineConfig({
   ignoreDeadLinks: true,
