@@ -14,7 +14,7 @@ layout: home
 并在尊重事实与多元观点的前提下，为每一位访客提供**尽可能可靠的参考信息**。
 
 欢迎加入我们的社区交流平台：  
-👉 **[Telegram 群组](https://t.me/OverdriveLab)**
+**[Telegram 群组](https://t.me/OverdriveLab)**
 
 ---
 
