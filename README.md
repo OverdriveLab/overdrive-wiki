@@ -1,41 +1,7 @@
 # Overdrive Wiki
 
-欢迎来到 **Overdrive Wiki**！  
-这里是一个由热爱科学与知识的社区共同维护的百科全书，致力于为每位访客提供**可靠的信息**。
-无论你是研究者、医务人员，还是对相关议题感兴趣的公众，我们希望这里成为你**安心探索、理性讨论、共享知识**的空间。
-
-加入我们的 **[Telegram 群组](https://t.me/OverdriveLab)**，与更多朋友交流、学习与成长。
-
----
-
-## 我们的立场
-
-本 Wiki 坚持 **循证信息整理与风险认知导向** 的原则，强调 **伤害降低与信息透明**。  
-我们希望每位读者都能在这里 **安心获取信息、理性评估风险、做出负责任的决策**。
-
----
-
-## 愿景
-
-> **让我们在一个没有痛苦的世界再次相遇。**
-
----
-
-## 鸣谢
-
-- **[PsychonautWiki](https://psychonautwiki.org)**  
-  感谢 PsychonautWiki 提供丰富的参考资料和严谨的学术精神。
-
-- **OverSpeed Wiki**  
-  感谢 OverSpeed Wiki 的贡献与知识分享。
-
-- **Spring风（SpringWind，2004年4月11日 – 2023年1月8日）**  
-  广西南宁人，高中生，药理学中级研究者，中推药圈知名人士。
-
-- **Soplk**  
-  匿名贡献者。
-
----
+**OverdriveLab** 维护的开源百科项目。
 
 ## 开源协议
-本项目遵循 **GNU Free Documentation License 1.3（GFDL-1.3）**，致力于保障文档内容的自由传播与再利用。 
+
+GNU Free Documentation License 1.3（GFDL-1.3）

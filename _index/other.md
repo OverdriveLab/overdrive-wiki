@@ -7,7 +7,7 @@ title: 其他
 **[超人类主义宣言](/other/transhumanist-declaration)**
 
 ## GNU Free Documentation
-Overdrive Wiki遵循 **GNU Free Documentation License 1.3（GFDL-1.3）**，致力于保障文档内容的自由传播与再利用。 
+Overdrive Wiki遵循 **GNU Free Documentation License 1.3（GFDL-1.3）**
 **[FDL-1.3](/other/fdl-1.3)**
 
 ## GNU GENERAL PUBLIC
