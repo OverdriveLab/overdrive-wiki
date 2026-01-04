@@ -29,27 +29,21 @@ export default defineConfig({
     },
 
     sidebar: {
-  '/drug/': [
-    {
-      text: '药物',
-      items: autoSidebar('drug', '/drug')
+      '/': [
+        {
+          text: '药物',
+          items: autoSidebar('drug', '/drug')
+        },
+        {
+          text: '首页',
+          items: autoSidebar('index', '/index')
+        },
+        {
+          text: '其它',
+          items: autoSidebar('other', '/other')
+        }
+      ]
     }
-  ],
-
-  '/index/': [
-    {
-      text: '索引',
-      items: autoSidebar('index', '/index')
-    }
-  ],
-
-  '/other/': [
-    {
-      text: '其他',
-      items: autoSidebar('other', '/other')
-    }
-  ]
-}
 
   }
 })
