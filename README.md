@@ -24,16 +24,16 @@
 ## 鸣谢
 
 - **[PsychonautWiki](https://psychonautwiki.org)**  
-  感谢 PsychonautWiki 提供丰富的参考资料和严谨的学术精神，为本 Wiki 的内容建设提供了坚实基础。
+  感谢 PsychonautWiki 提供丰富的参考资料和严谨的学术精神。
 
 - **OverSpeed Wiki**  
-  感谢 OverSpeed Wiki 的贡献与知识分享，让我们的信息更加完整。
+  感谢 OverSpeed Wiki 的贡献与知识分享。
 
 - **Spring风（SpringWind，2004年4月11日 – 2023年1月8日）**  
-  广西南宁人，高中生，药理学中级研究者，中推药圈知名人士。感谢他对科学探索的热情与智慧，他的精神仍然激励着我们前行。
+  广西南宁人，高中生，药理学中级研究者，中推药圈知名人士。
 
 - **Soplk**  
-  匿名贡献者，感谢你无私的分享与支持，使更多人能够安全、理性地获取信息。
+  匿名贡献者。
 
 ---
 
