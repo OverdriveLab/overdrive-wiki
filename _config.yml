@@ -76,8 +76,6 @@ collections:
 # GitBook 左侧导航顺序
 ordered_collections:
   - index
-  - drug
-  - drug_effect
   - other
 
 
