@@ -31,9 +31,9 @@ export default defineConfig({
     },
 
     sidebar: {
-      '/drug/': autoSidebar('docs/drug', '/drug'),
-      '/index/': autoSidebar('docs/index', '/index'),
-      '/other/': autoSidebar('docs/other', '/other')
+      '/drug/': autoSidebar('drug', '/drug'),
+      '/index/': autoSidebar('index', '/index'),
+      '/other/': autoSidebar('other', '/other')
     }
   }
 })
