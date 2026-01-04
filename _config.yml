@@ -2,7 +2,7 @@
 # Site Metadata
 # =========================
 title: "Overdrive Wiki"
-description: "Overdrive Wiki是一个社区驱动、学术取向的开放百科，系统性整理与药物过量相关的物质信息，涵盖其药理学、毒理学及相关临床与主观效应。"
+description: "Overdrive Wiki是一个由社区共同维护的百科全书项目"
 url: "https://overdrive-wiki.pages.dev"
 favicon_path: assets/favicon.ico
 
@@ -64,10 +64,6 @@ collections:
   drug:
     output: true
     permalink: /drug/:title/
-
-  drug_effect:
-    output: true
-    permalink: /drug_effect/:title/
 
   other:
     output: true
