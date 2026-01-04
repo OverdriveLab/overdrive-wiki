@@ -89,3 +89,6 @@ defaults:
       path: ""
     values:
       layout: "post"
+
+include:
+  - "_redirects"
